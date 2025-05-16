@@ -1,0 +1,10 @@
+﻿  Board.cpp
+C:\Users\mattj\source\repos\SFML_Demo\SFML_Demo\Board.cpp(31,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mattj\source\repos\SFML_Demo\SFML_Demo\Board.cpp(31,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mattj\source\repos\SFML_Demo\SFML_Demo\Board.cpp(88,10): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\mattj\source\repos\SFML_Demo\SFML_Demo\Board.cpp(88,15): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\mattj\source\repos\SFML_Demo\SFML_Demo\Board.cpp(360,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mattj\source\repos\SFML_Demo\SFML_Demo\Board.cpp(360,25): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\mattj\source\repos\SFML_Demo\SFML_Demo\Board.cpp(368,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\mattj\source\repos\SFML_Demo\SFML_Demo\Board.cpp(368,25): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  SFML_Demo.vcxproj -> C:\Users\mattj\source\repos\SFML_Demo\Debug\SFML_Demo.exe
