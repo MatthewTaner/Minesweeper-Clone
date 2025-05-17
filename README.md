@@ -14,7 +14,7 @@ A full-featured clone of the classic Minesweeper game, built using C++ and the S
 ## Technologies
 
 - **Language:** C++
-- **Graphics Library:** [SFML (Simple and Fast Multimedia Library)](https://www.sfml-dev.org/)
+- **Graphics Library:** SFML
 
 ## Prerequisites
 
