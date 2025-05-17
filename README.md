@@ -19,4 +19,4 @@ A full-featured clone of the classic Minesweeper game, built using C++ and the S
 ## Prerequisites
 
 - C++17 or later
-- SFML installed (2.5 or later recommended)
+- SFML installed (2.5 or later)
